@@ -1,0 +1,6 @@
+To move, use the W A S D keys
+Left click to shoot
+The space key allows you to jump
+If you leave a lobby restart the game
+The mouse scroll wheel allows
+you to change weapons
