@@ -31,7 +31,7 @@ The UDP server manages fast, connectionless communication. It's primarily used f
 
 1. Clone this repository:
    
-   git clone https://github.com/YahwthaniMG/Docker-TCP-UDP-servers-in-C.git
+   git clone https://github.com/YahwthaniMG/Servidor-de-Docker-en-C
    
 
  <!--- 2. Navigate to the desired server directory (TCP or UDP):
